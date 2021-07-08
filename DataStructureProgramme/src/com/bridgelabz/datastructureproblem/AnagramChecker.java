@@ -1,6 +1,6 @@
 package com.bridgelabz.datastructureproblem;
 import java.util.Scanner;
-public class prime
+public class AnagramChecker
 {                                                               //class declaration
         public static void main(String[] args)
 	{	                                                //main method declaration
